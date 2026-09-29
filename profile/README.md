@@ -35,9 +35,9 @@ A quiet, local-first notes app for iPhone and iPad. Capture notes, photos, and r
 
 ## 🤝 Contributing · 参与 Tono
 
-We welcome product feedback, bug reports, and documentation improvements. See the [Contribution Guide](https://github.com/tono-memo/.github/blob/main/CONTRIBUTING.md).
+We welcome product feedback, bug reports, documentation improvements, and code contributions to [Tono Site](https://github.com/tono-memo/site). The site is MIT-licensed and accepts pull requests; start with the [Contribution Guide](https://github.com/tono-memo/.github/blob/main/CONTRIBUTING.md).
 
-Code contribution terms vary by repository. Please check its license and contribution policy first.
+LiuBai source is private; send product ideas and feedback to [contact@tonomemo.com](mailto:contact@tonomemo.com).
 
 ### Contributors
 
