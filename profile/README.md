@@ -1,43 +1,58 @@
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/335291235?v=4" width="128" height="128" alt="Tono logo">
+
 # Tono
 
 **专注创造，让工具回归本质。**  
 *Focus on creating. Let tools step back.*
 
-SIMPLE · POWERFUL · YOURS
+<p>
+<a href="https://tonomemo.com/"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Ftonomemo.com&label=website&style=flat-square"></a>
+<a href="https://apps.apple.com/app/id6794540351"><img alt="LiuBai on the App Store" src="https://img.shields.io/badge/App_Store-LiuBai-1d1d1f?logo=apple&logoColor=white&style=flat-square"></a>
+<a href="https://testflight.apple.com/join/RxvjfM4U"><img alt="Try LiuBai on TestFlight" src="https://img.shields.io/badge/TestFlight-Join-0d96f6?logo=testflight&logoColor=white&style=flat-square"></a>
+</p>
 
-[官网 / Website](https://tonomemo.com/) · [English](https://tonomemo.com/en/)
+[官网 / Website](https://tonomemo.com/) · [English](https://tonomemo.com/en/) · [组织仓库 / Repositories](https://github.com/orgs/tono-memo/repositories)
 
-## 产品 / Products
+</div>
 
-### 留白 · LiuBai
+---
+
+## 👋 Welcome to Tono
+
+Tono builds thoughtful tools that stay out of your way.
+
+### ✨ 留白 · LiuBai
 
 在空白处，写下你的灵感。  
 Write your ideas in the blank space.
 
-一款安静记录灵感的随笔应用，支持文字、照片与录音，并以本地优先的方式保存。  
-A quiet, local-first notes app for capturing ideas, photos, and voice notes.
+A quiet, local-first notes app for iPhone and iPad. Capture notes, photos, and recordings; keep them on your device or sync through your private iCloud. No ads or tracking.
 
-- [产品介绍 / Product](https://tonomemo.com/liubai/) · [App Store](https://apps.apple.com/app/id6794540351) · [TestFlight](https://testflight.apple.com/join/RxvjfM4U)
-- [支持与常见问题 / Support & FAQ](https://tonomemo.com/liubai/support/)
-- [隐私政策 / Privacy](https://tonomemo.com/liubai/privacy/) · [用户协议 / Terms](https://tonomemo.com/liubai/user-protocol/)
+[产品介绍 / Product](https://tonomemo.com/liubai/) · [App Store](https://apps.apple.com/app/id6794540351) · [TestFlight](https://testflight.apple.com/join/RxvjfM4U)  
+[支持与常见问题 / Support](https://tonomemo.com/liubai/support/) · [隐私政策 / Privacy](https://tonomemo.com/liubai/privacy/) · [用户协议 / Terms](https://tonomemo.com/liubai/user-protocol/)
 
-## Contributing · 参与 Tono
+## 🤝 Contributing · 参与 Tono
 
-欢迎分享产品反馈、报告问题，或帮助改进文档。提交前请先查看 [参与指南 / Contribution Guide](https://github.com/tono-memo/.github/blob/main/CONTRIBUTING.md)。  
-We welcome product feedback, bug reports, and documentation improvements. Please read the [Contribution Guide](https://github.com/tono-memo/.github/blob/main/CONTRIBUTING.md) before contributing.
+We welcome product feedback, bug reports, and documentation improvements. See the [Contribution Guide](https://github.com/tono-memo/.github/blob/main/CONTRIBUTING.md).
 
-代码贡献请遵循对应仓库明确公布的许可证和贡献说明；如果仓库没有相关说明，请先通过邮件联系。  
-Code contributions must follow the license and contribution policy published by each repository. If neither is provided, please contact us first.
+Code contribution terms vary by repository. Please check its license and contribution policy first.
 
-## 支持与联系 / Support & Contact
+### Contributors
 
-使用问题请先查看 [支持页面](https://tonomemo.com/liubai/support/)。  
-For product help, start with the [support page](https://tonomemo.com/liubai/support/).
+People who have contributed to the public [Tono Site](https://github.com/tono-memo/site) repository.
 
-- [安全问题 / Report a vulnerability](https://github.com/tono-memo/.github/blob/main/SECURITY.md)
-- [一般联系 / General inquiries](mailto:contact@tonomemo.com)
+<p align="center">
+<a href="https://github.com/tono-memo/site/graphs/contributors"><img alt="Tono Site contributors" src="https://img.shields.io/github/contributors/tono-memo/site?label=contributors&logo=github&style=flat-square"></a>
+</p>
 
-## GitHub
+<p align="center">
+<a href="https://github.com/tono-memo/site/graphs/contributors"><img alt="Contributor avatars for tono-memo/site" src="https://contrib.rocks/image?repo=tono-memo/site&max=100&columns=12"></a>
+</p>
 
-- [Tono 官方网站源码 / Official website source](https://github.com/tono-memo/site)
-- [组织配置与社区规范 / Organization profile and community files](https://github.com/tono-memo/.github)
+## 📮 Support & Contact
+
+- Product help: [LiuBai Support](https://tonomemo.com/liubai/support/)
+- General inquiries: [contact@tonomemo.com](mailto:contact@tonomemo.com)
+- Security reports: [SECURITY.md](https://github.com/tono-memo/.github/blob/main/SECURITY.md)
