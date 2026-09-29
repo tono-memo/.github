@@ -44,7 +44,7 @@ LiuBai source is private; send product ideas and feedback to [contact@tonomemo.c
 People who have contributed to the public [Tono Site](https://github.com/tono-memo/site) repository.
 
 <p align="center">
-<a href="https://github.com/tono-memo/site/graphs/contributors"><img alt="Tono Site contributors" src="https://img.shields.io/github/contributors/tono-memo/site?label=contributors&logo=github&style=flat-square"></a>
+<a href="https://github.com/tono-memo/site/graphs/contributors"><img alt="Tono Site contributors" src="https://img.shields.io/github/contributors/tono-memo/site?label=contributors&logo=github&style=flat-square&color=555555"></a>
 </p>
 
 <p align="center">
