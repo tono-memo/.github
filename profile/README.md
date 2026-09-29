@@ -21,6 +21,14 @@ A quiet, local-first notes app for capturing ideas, photos, and voice notes.
 - [支持与常见问题 / Support & FAQ](https://tonomemo.com/liubai/support/)
 - [隐私政策 / Privacy](https://tonomemo.com/liubai/privacy/) · [用户协议 / Terms](https://tonomemo.com/liubai/user-protocol/)
 
+## Contributing · 参与 Tono
+
+欢迎分享产品反馈、报告问题，或帮助改进文档。提交前请先查看 [参与指南 / Contribution Guide](https://github.com/tono-memo/.github/blob/main/CONTRIBUTING.md)。  
+We welcome product feedback, bug reports, and documentation improvements. Please read the [Contribution Guide](https://github.com/tono-memo/.github/blob/main/CONTRIBUTING.md) before contributing.
+
+代码贡献请遵循对应仓库明确公布的许可证和贡献说明；如果仓库没有相关说明，请先通过邮件联系。  
+Code contributions must follow the license and contribution policy published by each repository. If neither is provided, please contact us first.
+
 ## 支持与联系 / Support & Contact
 
 使用问题请先查看 [支持页面](https://tonomemo.com/liubai/support/)。  
@@ -32,3 +40,4 @@ For product help, start with the [support page](https://tonomemo.com/liubai/supp
 ## GitHub
 
 - [Tono 官方网站源码 / Official website source](https://github.com/tono-memo/site)
+- [组织配置与社区规范 / Organization profile and community files](https://github.com/tono-memo/.github)
